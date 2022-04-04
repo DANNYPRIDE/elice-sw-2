@@ -1,0 +1,21 @@
+command+o: 브라우저에서 file 찾기
+이미지 태그는 어떻게 가져오나
+
+li *3
+
+shift command p 
+wrap 
+
+ul(toggle), ol(numbering)
+
+lorem1000
+
+file:///Users/dannychoi/Desktop/htdoc/index.html#html
+
+특정 id에 scroll 까지도 가능하게 할 수 있다.
+
+live server..?
+
+127.0.0.1 이란 ip 주소에서 찾겠다.
+
+127.0.0.1
